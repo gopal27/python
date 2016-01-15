@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<data>
+  <country name="India">
+    <rank>10</rank>
+    <year>2001</year>
+    <gdppc>10323</gdppc>
+    <neighbor name="ABC" direction="E" />
+    <neighbor name="XYZ" direction="W" />
+  </country>
+
+  <country name="United States">
+    <rank>10</rank>
+    <year>2001</year>
+    <gdppc>10323</gdppc>
+    <neighbor name="ABC" direction="E" />
+    <neighbor name="XYZ" direction="W" />
+  </country>
+
+  <country name="Bangladesh">
+    <rank>10</rank>
+    <year>2001</year>
+    <gdppc>10323</gdppc>
+    <neighbor name="ABC" direction="E" />
+    <neighbor name="XYZ" direction="W" />
+  </country>
+
+  <country name="Canada">
+    <rank>10</rank>
+    <year>2001</year>
+    <gdppc>10323</gdppc>
+    <neighbor name="ABC" direction="E" />
+    <neighbor name="XYZ" direction="W" />
+  </country>
+</data>
