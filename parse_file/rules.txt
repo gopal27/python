@@ -1,0 +1,4 @@
+*.*.*=!AAAA
+Source1.ACCOUNT1.Trader1=!XXXX,!YYYY
+Source2.ACCOUNT2.Trader2=+,!ZZZZ
+Source3.ACCOUNT3.Trader3=ZZZZ
